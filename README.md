@@ -30,7 +30,7 @@ The model was trained on a comprehensive dataset of labeled images for plant dis
 ## 🚀 Installation Guide
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/plant-disease-detection.git
+git clone https://github.com/Chayan1729/Plant-Disease-Detection_.git
 cd plant-disease-detection
 ```
 
