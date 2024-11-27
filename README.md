@@ -35,17 +35,17 @@ The model was trained on a comprehensive dataset of labeled images for plant dis
 git clone https://github.com/your-username/plant-disease-detection.git
 cd plant-disease-detection
 
-## 2. Set Up a Virtual Environment
+### 2. Set Up a Virtual Environment
 ```bash
 python -m venv venv
 source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
 
 
-## 3. Install Dependencies
+### 3. Install Dependencies
 ```bash
 Copy code
 pip install -r requirements.txt
-## 4. Run the App
+### 4. Run the App
 ```bash
 Copy code
 streamlit run main.py
