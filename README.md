@@ -62,7 +62,7 @@ streamlit run main.py
 - **Strawberry**: Leaf Scorch  
 - **Grape**: Black Rot, Esca (Black Measles), Isariopsis Leaf Spot  
 - And many more...
-ChatGPT said:
+
 
 
 
