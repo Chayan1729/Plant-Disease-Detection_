@@ -35,8 +35,10 @@ The model was trained on a comprehensive dataset of labeled images for plant dis
 git clone https://github.com/your-username/plant-disease-detection.git
 cd plant-disease-detection
 
-### 2. Set Up a Virtual Environment
-```bash
+
+2. Set Up a Virtual Environment
+bash
+Copy code
 python -m venv venv
 source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
 
