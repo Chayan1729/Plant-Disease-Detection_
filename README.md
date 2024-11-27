@@ -32,7 +32,37 @@ The model was trained on a comprehensive dataset of labeled images for plant dis
 ```bash
 git clone https://github.com/your-username/plant-disease-detection.git
 cd plant-disease-detection
+```
 
+### 2. Set Up a Virtual Environment
+To isolate the project's dependencies, create and activate a virtual environment.
+
+#### For Windows:
+```bash
+python -m venv venv
+venv\Scripts\activate
+```
+### 3. Install Dependencies
+```bash
+
+pip install -r requirements.txt
+```
+### 4. Run the App
+```bash
+
+streamlit run main.py
+```
+
+
+## 🌱 Supported Plants and Diseases
+
+- **Tomato**: Late Blight, Early Blight, Yellow Leaf Curl Virus, and more  
+- **Corn (Maize)**: Northern Leaf Blight, Common Rust, Gray Leaf Spot  
+- **Apple**: Apple Scab, Black Rot, Cedar Apple Rust  
+- **Strawberry**: Leaf Scorch  
+- **Grape**: Black Rot, Esca (Black Measles), Isariopsis Leaf Spot  
+- And many more...
+ChatGPT said:
 
 
 
