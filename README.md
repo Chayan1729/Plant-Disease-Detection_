@@ -27,38 +27,15 @@ This is a **Streamlit-based web application** that uses a trained deep learning 
 The model was trained on a comprehensive dataset of labeled images for plant disease detection, containing multiple classes for various crops and diseases. The dataset includes crops like **Tomato, Grape, Corn, Apple**, and more.
 
 ---
-
 ## 🚀 Installation Guide
-
 ### 1. Clone the Repository
 ```bash
 git clone https://github.com/your-username/plant-disease-detection.git
 cd plant-disease-detection
 
 
-2. Set Up a Virtual Environment
-bash
-Copy code
-python -m venv venv
-source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
 
 
-### 3. Install Dependencies
-```bash
-Copy code
-pip install -r requirements.txt
-### 4. Run the App
-```bash
-Copy code
-streamlit run main.py
 
 
-## 🌱 Supported Plants and Diseases
-
-- **Tomato**: Late Blight, Early Blight, Yellow Leaf Curl Virus, and more  
-- **Corn (Maize)**: Northern Leaf Blight, Common Rust, Gray Leaf Spot  
-- **Apple**: Apple Scab, Black Rot, Cedar Apple Rust  
-- **Strawberry**: Leaf Scorch  
-- **Grape**: Black Rot, Esca (Black Measles), Isariopsis Leaf Spot  
-- And many more...
 
