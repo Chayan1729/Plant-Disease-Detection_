@@ -1,10 +1,10 @@
-# 🌿 Plant Disease Detection
+# Plant Disease Detection
 
 This is a **Streamlit-based web application** that uses a trained deep learning model to detect plant diseases from leaf images. The model identifies both the plant and its disease with high confidence.
 
 ---
 
-## 🌟 Features
+## Features
 
 - **User-Friendly Interface**: Upload plant leaf images through a simple drag-and-drop interface.
 - **Wide Disease Coverage**: Detects 38 plant diseases, including healthy plant states.
@@ -13,7 +13,7 @@ This is a **Streamlit-based web application** that uses a trained deep learning 
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Frontend**: Streamlit
 - **Backend**: TensorFlow (Keras), NumPy
@@ -22,12 +22,12 @@ This is a **Streamlit-based web application** that uses a trained deep learning 
 
 ---
 
-## 📚 Dataset
+## Dataset
 
 The model was trained on a comprehensive dataset of labeled images for plant disease detection, containing multiple classes for various crops and diseases. The dataset includes crops like **Tomato, Grape, Corn, Apple**, and more.
 
 ---
-## 🚀 Installation Guide
+## Installation Guide
 ### 1. Clone the Repository
 ```bash
 git clone https://github.com/Chayan1729/Plant-Disease-Detection_.git
@@ -54,7 +54,7 @@ streamlit run main.py
 ```
 
 
-## 🌱 Supported Plants and Diseases
+## Supported Plants and Diseases
 
 - **Tomato**: Late Blight, Early Blight, Yellow Leaf Curl Virus, and more  
 - **Corn (Maize)**: Northern Leaf Blight, Common Rust, Gray Leaf Spot  
